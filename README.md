@@ -10,7 +10,8 @@ Bem vindo! sinta-se a vontade ;)
 
 # Radinho 📻 (Novidade⚠️)
 
-● Rádio : https://radinchat-hr4kkpzt.manus.space/
+● Rádio : https://radinchat-hr4kkpzt.manus.space/ 
+
 ( 🔘 CH 111 = informática / CH 19 = Chat geral ) 
 
 
