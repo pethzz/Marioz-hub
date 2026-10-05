@@ -7,11 +7,10 @@ Bem vindo! sinta-se a vontade ;)
 
 
 -------
-# Update! 💫
--
--
--
--
+# Update logs 📋
+- Adicionado Doritus
+- Adicionado salva estudantes
+- Radinho atualizado!
 
 # Radinho 📻
 
