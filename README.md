@@ -7,6 +7,11 @@ Bem vindo! sinta-se a vontade ;)
 
 
 -------
+# Update! 💫
+-
+-
+-
+-
 
 # Radinho 📻
 
@@ -28,7 +33,7 @@ Bem vindo! sinta-se a vontade ;)
 
 ● Salva ☑ : https://salvaestudante.com/tarefas
 
-● Doritus ☑ : doritus.cloud
+● Doritus ☑ : https://doritus.cloud
 
 
 # VPN 🌐 (Unlock) 
