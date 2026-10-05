@@ -8,7 +8,7 @@ Bem vindo! sinta-se a vontade ;)
 
 -------
 
-# Radinho 📻 (Novidade⚠️)
+# Radinho 📻
 
 ● Rádio : https://radinchat-hr4kkpzt.manus.space/ 
 
@@ -25,6 +25,10 @@ Bem vindo! sinta-se a vontade ;)
 ● zunder ☑ : https://platformdestroyer.fun/tarefas
 
 ● OpenFuture ☑ :https://openfuture.lol/
+
+● Salva ☑ : https://salvaestudante.com/tarefas
+
+● Doritus ☑ : doritus.cloud
 
 
 # VPN 🌐 (Unlock) 
