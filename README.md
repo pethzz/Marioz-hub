@@ -16,7 +16,7 @@ contribuidor: 🥇 Jhony
 
 
 
-# GTA 5 🔫
+# GTA 5 💫 NOVIDADE!
 
 ● GTA 5 : https://gta.deloskiyt.pl/
 
