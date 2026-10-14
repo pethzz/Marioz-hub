@@ -2,6 +2,7 @@
 
 
 Bem vindo! sinta-se a vontade ;)
+contribuidor: 🥇 Jhony
 
 
 
@@ -11,6 +12,13 @@ Bem vindo! sinta-se a vontade ;)
 - Adicionado Doritus
 - Adicionado salva estudantes
 - Radinho atualizado!
+- GTA 5 Jogável direto do navegador!
+
+
+
+# GTA 5 🔫
+
+● GTA 5 : https://gta.deloskiyt.pl/
 
 # Radinho 📻
 
