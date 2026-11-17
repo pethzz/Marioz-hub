@@ -1,69 +1,66 @@
-# Marioz-hub 🍄
+# 🍄 Marioz-hub
 
+> Bem-vindo! Sinta-se à vontade ;)  
+> **Contribuidor:** 🥇 Jhony
 
-Bem vindo! sinta-se a vontade ;)
-contribuidor: 🥇 Jhony
+---
 
+## 📋 Update Logs
 
+* ✨ Adicionado **Doritus** e **Salva Estudante**
+* 📻 **Radinho** atualizado!
+* 💫 **GTA 5** jogável direto do navegador!
+* 🌐 Novos navegadores e sites com diversos jogos adicionados!
 
+---
 
--------
-# Update logs 📋
-- Adicionado Doritus
-- Adicionado salva estudantes
-- Radinho atualizado!
-- GTA 5 Jogável direto do navegador!
-- Site com diversos jogos!
+## 🔥 NOVIDADES EM DESTAQUE!
 
+> [!IMPORTANT]
+> * 🌐 **Navegador (DMC3):** https://tinyurl.com/dmc3-navegador
+> * 🎮 **Site de Games (Wix3):** https://browser.wix3.com
+> * 💫 **GTA 5 (Navegador):** https://gta.deloskiyt.pl/
 
+---
 
+## 📻 Radinho
 
-# SITE DE GAMES 🎮
+* **Acessar Rádio:** https://radinchat-hr4kkpzt.manus.space/
 
-● Site : https://browser.wix3.com
+| Canal | Sala |
+| :--- | :--- |
+| **CH 111** | 💻 Informática |
+| **CH 19** | 💬 Chat Geral |
 
+---
 
+## ⌨️ Scripts (CMSP)
 
-# GTA 5 💫 NOVIDADE!
+| Script | Status | Link |
+| :--- | :---: | :--- |
+| **Zunder** | ☑ | https://platformdestroyer.fun/tarefas |
+| **OpenFuture** | ☑ | https://openfuture.lol/ |
+| **Salva Estudante** | ☑ | https://salvaestudante.com/tarefas |
+| **Doritus** | ☑ | https://doritus.cloud |
 
-● GTA 5 : https://gta.deloskiyt.pl/
+---
 
-# Radinho 📻
+## 🌐 VPN (Unlock)
 
-● Rádio : https://radinchat-hr4kkpzt.manus.space/ 
+* **Extensão 1VPN:** https://chromewebstore.google.com/detail/vpn-grátis-free-vpn-1vpn/akcocjjpkmlniicdeemdceeajlmoabh
 
-( 🔘 CH 111 = informática / CH 19 = Chat geral ) 
+> [!NOTE]
+> Caso você esteja no notebook, utilize o navegador **Firefox**, que pode ser encontrado na tela inicial do dispositivo.
 
+---
 
+## ⚒️ Tools (Utilidades)
 
+* **Jogos ☠︎:** https://www.apkworld.de/
+* **Tools 🔨:** https://start.me/p/L1rEYQ/osint4all
 
+---
 
-
-
-#   Scripts ⌨️  (CMSP)
-
-● zunder ☑ : https://platformdestroyer.fun/tarefas
-
-● OpenFuture ☑ :https://openfuture.lol/
-
-● Salva ☑ : https://salvaestudante.com/tarefas
-
-● Doritus ☑ : https://doritus.cloud
-
-
-# VPN 🌐 (Unlock) 
-
-● LINK ᯤ : https://chromewebstore.google.com/detail/vpn-grátis-free-vpn-1vpn/akcocjjpkmlniicdeemdceeajlmoabh
-
-(🗒️nota: caso você esteja no notebook, utilize o navegador "Firefox" no qual pode ser encontrado na tela inicial do dispositivo) 
-
-
-# Tools ⚒️ (Utilidades)
-
-● jogos ☠︎ : https://www.apkworld.de/
-
-● Tools 🔨 : https://start.me/p/L1rEYQ/osint4all
-
-
-
-Não é errado -- é estratégia ⚠️
+<div align="center">
+  <b>⚠️ Não é errado — é estratégia.</b>
+</div>
