@@ -46,7 +46,7 @@
 
 ## 📻 Radinho
 
-* **Acessar Rádio:** [Clique aqui para abrir](https://radinchat-hr4kkpzt.manus.space/)
+* **Acessار Rádio:** [Clique aqui para abrir](https://radinchat-hr4kkpzt.manus.space/)
 
 | Canal | Sala |
 | :---: | :--- |
@@ -93,9 +93,8 @@
   <summary>ㅤ</summary>
   <br>
   <div align="center">
-    <p align="center">
-      <img src="https://img.shields.io/badge/🔐_LOGIN_SECRETO-00FFCC?style=for-the-badge&logo=key&logoColor=black" alt="Login Secreto">
-    </p>
+    <!-- Neon Animado Idêntico ao do Topo -->
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=400&lines=%F0%9F%94%90+LOGIN+SECRETO" alt="Login Secreto Neon" />
     <p><sub><i>Este acesso é exclusivo para uso estratégico da equipe.</i></sub></p>
   </div>
   <br>
