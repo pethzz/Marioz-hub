@@ -104,6 +104,6 @@
     <b>🔑 Senha:</b> <code>Mariosemfuturo123</code>
   </blockquote>
   <div align="center">
-    <sub>🎮 Toque ou selecione os códigos acima para copiar.</sub>
+    <sub>🎮 Toque ou selecione o login acima para copiar.</sub>
   </div>
 </details>
