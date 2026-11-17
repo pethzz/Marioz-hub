@@ -7,9 +7,10 @@
 
 ## 📋 Update Logs
 
+* ❌ **GTA 5 removido** a pedido da comunidade.
 * ✨ Adicionado **Doritus** e **Salva Estudante**
 * 📻 **Radinho** atualizado!
-* 💫 **GTA 5** jogável direto do navegador!
+* 🧮 Adicionada **Calculadora Secreta** com jogos ocultos!
 * 🌐 Novos navegadores e sites com diversos jogos adicionados!
 
 ---
@@ -19,7 +20,7 @@
 > [!IMPORTANT]
 > * 🌐 **Navegador (DMC3):** https://tinyurl.com/dmc3-navegador
 > * 🎮 **Site de Games (Wix3):** https://browser.wix3.com
-> * 💫 **GTA 5 (Navegador):** https://gta.deloskiyt.pl/
+> * 🧮 **Calculadora Secreta (Jogos):** https://calcsolver.net/ *(Digite `0000` para ativar o modo de jogos!)*
 
 ---
 
