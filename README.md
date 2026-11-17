@@ -9,9 +9,9 @@
 > **Contribuidor:** 🥇 Jhony
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge&logo=github" alt="Status">
-  <img src="https://img.shields.io/badge/Games-Unlocked-00BFFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Games">
-  <img src="https://img.shields.io/badge/Strategy-Smart-orange?style=for-the-badge" alt="Strategy">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FFCC?style=for-the-badge&logo=github&logoColor=black" alt="Status">
+  <img src="https://img.shields.io/badge/GAMES-UNLOCKED-00BFFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Games">
+  <img src="https://img.shields.io/badge/STRATEGY-SMART-FF7F50?style=for-the-badge&logo=fire&logoColor=white" alt="Strategy">
   <img src="https://komarev.com/ghpvc/?username=pethzz-marioz-hub&label=ACESSOS&color=8A2BE2&style=for-the-badge" alt="Contador de Visitas">
 </p>
 
@@ -25,13 +25,13 @@
 * ❌ **GTA 5 removido** a pedido da comunidade.
 * ✨ Adicionado **CrazyGames (Jumping)** em Destaque!
 * ✨ Adicionado **Doritus** e **Salva Estudante**.
-* 📻 **Radinho** atualizado!
+* 📻 **Radinho** atualizado com novas salas!
 * 🧮 Adicionada **Calculadora Secreta** com jogos ocultos!
 * 🌐 Novos navegadores e sites com diversos jogos adicionados!
 
 ---
 
-## 🔥 NOVIDADES EM DESTAQUE!
+## 🔥 Novidades em Destaque
 
 > [!IMPORTANT]
 > | Ícone | Recurso / Ferramenta | Link de Acesso |
@@ -49,7 +49,7 @@
 * **Acessar Rádio:** [Clique aqui para abrir](https://radinchat-hr4kkpzt.manus.space/)
 
 | Canal | Sala |
-| :--- | :--- |
+| :---: | :--- |
 | **CH 111** | 💻 Informática |
 | **CH 19** | 💬 Chat Geral |
 
@@ -59,10 +59,10 @@
 
 | Script | Status | Acesso |
 | :--- | :---: | :--- |
-| **Zunder** | ☑ | [Abrir Link](https://platformdestroyer.fun/tarefas) |
-| **OpenFuture** | ☑ | [Abrir Link](https://openfuture.lol/) |
-| **Salva Estudante** | ☑ | [Abrir Link](https://salvaestudante.com/tarefas) |
-| **Doritus** | ☑ | [Abrir Link](https://doritus.cloud) |
+| **Zunder** | 🟢 Ativo | [Abrir Link](https://platformdestroyer.fun/tarefas) |
+| **OpenFuture** | 🟢 Ativo | [Abrir Link](https://openfuture.lol/) |
+| **Salva Estudante** | 🟢 Ativo | [Abrir Link](https://salvaestudante.com/tarefas) |
+| **Doritus** | 🟢 Ativo | [Abrir Link](https://doritus.cloud) |
 
 ---
 
@@ -75,7 +75,7 @@
 
 ---
 
-## ⚒️ Tools (Utilidades)
+## ⚒️ Tools & Utilidades
 
 * **Jogos ☠︎:** [Abrir Apkworld](https://www.apkworld.de/)
 * **Tools 🔨:** [Abrir Start.me](https://start.me/p/L1rEYQ/osint4all)
