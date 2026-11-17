@@ -92,9 +92,19 @@
 <details>
   <summary>ㅤ</summary>
   <br>
+  <div align="center">
+    <p align="center">
+      <img src="https://img.shields.io/badge/🔐_LOGIN_SECRETO-00FFCC?style=for-the-badge&logo=key&logoColor=black" alt="Login Secreto">
+    </p>
+    <p><sub><i>Este acesso é exclusivo para uso estratégico da equipe.</i></sub></p>
+  </div>
+  <br>
   <blockquote>
-    <b>🔐 Acesso VIP</b><br>
-    <b>E-mail:</b> <code>oreintacaoff@gmail.com</code><br>
-    <b>Senha:</b> <code>Mariosemfuturo123</code>
+    <b>📧 E-mail:</b> <code>oreintacaoff@gmail.com</code>
+    <br><br>
+    <b>🔑 Senha:</b> <code>Mariosemfuturo123</code>
   </blockquote>
+  <div align="center">
+    <sub>🎮 Toque ou selecione os códigos acima para copiar.</sub>
+  </div>
 </details>
