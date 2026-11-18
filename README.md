@@ -5,15 +5,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=%F0%9F%8D%84+MARIOZ-HUB+ONLINE!;Games%2C+Scripts+%26+Tools;N%C3%A3o+%C3%A9+errado+%E2%80%94+%C3%A9+estrat%C3%A9gia." alt="Typing SVG" />
 </a>
 
-> *Bem-vindo! Sinta-se à vontade ;)*  
-> **Contribuidor:** 🥇 Jhony
-
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FFCC?style=for-the-badge&logo=github&logoColor=black" alt="Status">
-  <img src="https://img.shields.io/badge/GAMES-UNLOCKED-00BFFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Games">
-  <img src="https://img.shields.io/badge/STRATEGY-SMART-FF7F50?style=for-the-badge&logo=fire&logoColor=white" alt="Strategy">
+  <img src="https://img.shields.io/badge/VERSION-v1.48-00FFCC?style=for-the-badge&logo=git&logoColor=black" alt="Version">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00BFFF?style=for-the-badge&logo=github&logoColor=black" alt="Status">
   <img src="https://komarev.com/ghpvc/?username=pethzz-marioz-hub&label=ACESSOS&color=8A2BE2&style=for-the-badge" alt="Contador de Visitas">
 </p>
+
+> *Bem-vindo! Sinta-se à vontade ;)*  
+> **Contribuidor:** 🥇 Jhony
 
 </div>
 
@@ -22,7 +21,7 @@
 ## 📋 Update Logs (Clique para abrir)
 
 <details>
-  <summary><b>📂 Ver Histórico de Atualizações</b></summary>
+  <summary><b>📂 Ver Histórico de Atualizações (v1.48)</b></summary>
   <br>
   <ul>
     <li>✨ Adicionado <b>CloudMoon</b> em Destaque!</li>
