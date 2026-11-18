@@ -19,15 +19,21 @@
 
 ---
 
-## 📋 Update Logs
+## 📋 Update Logs (Clique para abrir)
 
-* ✨ Adicionado **CloudMoon** em Destaque!
-* ❌ **GTA 5 removido** a pedido da comunidade.
-* ✨ Adicionado **CrazyGames (Jumping)** em Destaque!
-* ✨ Adicionado **Doritus** e **Salva Estudante**.
-* 📻 **Radinho** atualizado com novas salas!
-* 🧮 Adicionada **Calculadora Secreta** com jogos ocultos!
-* 🌐 Novos navegadores e sites com diversos jogos adicionados!
+<details>
+  <summary><b>📂 Ver Histórico de Atualizações</b></summary>
+  <br>
+  <ul>
+    <li>✨ Adicionado <b>CloudMoon</b> em Destaque!</li>
+    <li>❌ <b>GTA 5 removido</b> a pedido da comunidade.</li>
+    <li>✨ Adicionado <b>CrazyGames (Jumping)</b> em Destaque!</li>
+    <li>✨ Adicionado <b>Doritus</b> e <b>Salva Estudante</b>.</li>
+    <li>📻 <b>Radinho</b> atualizado com novas salas!</li>
+    <li>🧮 Adicionada <b>Calculadora Secreta</b> com jogos ocultos!</li>
+    <li>🌐 Novos navegadores e sites com diversos jogos adicionados!</li>
+  </ul>
+</details>
 
 ---
 
@@ -46,7 +52,7 @@
 
 ## 📻 Radinho
 
-* **Acessار Rádio:** [Clique aqui para abrir](https://radinchat-hr4kkpzt.manus.space/)
+* **Acessar Rádio:** [Clique aqui para abrir](https://radinchat-hr4kkpzt.manus.space/)
 
 | Canal | Sala |
 | :---: | :--- |
@@ -93,17 +99,17 @@
   <summary>ㅤ</summary>
   <br>
   <div align="center">
-    <!-- Neon Animado Idêntico ao do Topo -->
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=400&lines=%F0%9F%94%90+LOGIN+SECRETO" alt="Login Secreto Neon" />
-    <p><sub><i>Este acesso é exclusivo para uso estratégico da equipe.</i></sub></p>
+    <!-- Neon Principal Digitando -->
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=450&lines=%F0%9F%94%90+LOGIN+SECRETO+%F0%9F%94%90" alt="Login Secreto Neon" />
+    <br>
+    <!-- Segundo Neon Secundário -->
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=400&lines=Acesso+autorizado+apenas+para+o+e-mail;Senha+removida+por+seguran%C3%A7a" alt="Subtexto Neon" />
   </div>
   <br>
   <blockquote>
     <b>📧 E-mail:</b> <code>oreintacaoff@gmail.com</code>
-    <br><br>
-    <b>🔑 Senha:</b> <code>Mariosemfuturo123</code>
   </blockquote>
   <div align="center">
-    <sub>🎮 Toque ou selecione o login acima para copiar.</sub>
+    <sub>🎮 Toque ou selecione o e-mail acima para copiar.</sub>
   </div>
 </details>
