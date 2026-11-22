@@ -73,10 +73,10 @@
 
 | Script | Status | Acesso |
 | :--- | :---: | :--- |
+| **Doritus** 🔥 | 🟢 Ativo | [Abrir Link](https://doritus.cloud) |
 | **Zunder** | 🟢 Ativo | [Abrir Link](https://platformdestroyer.fun/tarefas) |
 | **OpenFuture** | 🟢 Ativo | [Abrir Link](https://openfuture.lol/) |
 | **Salva Estudante** | 🟢 Ativo | [Abrir Link](https://salvaestudante.com/tarefas) |
-| **Doritus** | 🟢 Ativo | [Abrir Link](https://doritus.cloud) |
 
 ---
 
