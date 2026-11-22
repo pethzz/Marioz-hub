@@ -11,8 +11,17 @@
   <img src="https://komarev.com/ghpvc/?username=pethzz-marioz-hub&label=ACESSOS&color=8A2BE2&style=for-the-badge" alt="Contador de Visitas">
 </p>
 
-> *Bem-vindo! Sinta-se à vontade ;)*  
-> **Contribuidor:** 🥇 Jhony
+<table>
+  <tr>
+    <td valign="middle">
+      <em>Bem-vindo! Sinta-se à vontade ;)</em><br>
+      <strong>Contribuidor:</strong> 🥇 Jhony
+    </td>
+    <td valign="middle">
+      <img src="https://raw.githubusercontent.com/pethzz/Marioz-hub/main/1795313024968.jpg" alt="Mario" width="120">
+    </td>
+  </tr>
+</table>
 
 </div>
 
