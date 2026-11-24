@@ -6,7 +6,7 @@
 </a>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/VERSION-v1.54-00FFCC?style=for-the-badge&logo=git&logoColor=black" alt="Version">
+  <img src="https://img.shields.io/badge/VERSION-v1.59-00FFCC?style=for-the-badge&logo=git&logoColor=black" alt="Version">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00BFFF?style=for-the-badge&logo=github&logoColor=black" alt="Status">
   <img src="https://img.shields.io/badge/HUB-NEW_LOOK-FF007F?style=for-the-badge&logo=sparkles&logoColor=white" alt="New Look">
   <img src="https://komarev.com/ghpvc/?username=pethzz-marioz-hub&label=ACESSOS&color=8A2BE2&style=for-the-badge" alt="Contador de Visitas">
@@ -33,16 +33,16 @@
 
 ---
 
-## 📋 Update Logs (v1.54)
+## 📋 Update Logs (v1.59)
 
 <details>
-  <summary><b>📂 Ver o que mudou na v1.54</b></summary>
+  <summary><b>📂 Ver o que mudou na v1.59</b></summary>
   <br>
   <ul>
-    <li>🆕 Versão atualizada para <b>v1.54</b>.</li>
-    <li>📶 Parágrafo explicativo do <b>Wi-Fi Unblocked</b> reescrito em formato detalhado e formal.</li>
-    <li>🎨 Visual do hub repaginado com seções mais limpas e blocos de destaque.</li>
-    <li>🎮 Aba <b>Jogos</b> com CloudMoon, Calculadora Secreta e sites de navegador.</li>
+    <li>🆕 Versão atualizada para <b>v1.59</b>.</li>
+    <li>✨ Bloco <b>Dicas & Extras</b> visível na página principal.</li>
+    <li>🕵️ Área secreta ocultada com mais discrição no rodapé.</li>
+    <li>📶 Mantida a seção <b>Wi-Fi Unblocked</b> com explicação e print em tela cheia.</li>
   </ul>
 </details>
 
@@ -51,7 +51,7 @@
 ## 🔥 Novidades
 
 > 📶 **Wi-Fi Unblocked** — conexão comum totalmente desbloqueada.  
-> 🎮 **Aba de Jogos** — espaço separado só pros jogos e portais.
+> 🎮 **Aba de Jogos** — espaço separado só pros jogos e sites de navegador.
 
 ---
 
@@ -73,17 +73,21 @@
 
 ## 🎮 Jogos
 
-| Plataforma / Portal | Categoria | Link |
+<sub>🕹️ Opções para jogar direto na nuvem, no navegador ou em sites rápidos.</sub>
+
+| Jogo / Site | Categoria | Link |
 | :--- | :--- | :--- |
 | ☁️ **CloudMoon** | Cloud Gaming | [Acessar Link](https://web.cloudmoonapp.com/pt/) |
 | 🧮 **Calculadora Secreta** *(Digite `0000`)* | Jogos Ocultos | [Acessar Link](https://calcsolver.net/) |
 | 🌐 **Navegador (DMC3)** | Browser / Jogos | [Acessar Link](https://tinyurl.com/dmc3-navegador) |
-| 🎮 **Site de Games (Wix3)** | Portal de Jogos | [Acessar Link](https://browser.wix3.com) |
+| 🎮 **Site de Games (Wix3)** | Site de Jogos | [Acessar Link](https://browser.wix3.com) |
 | 🦘 **CrazyGames (Jumping)** | Jogos de Navegador | [Acessar Link](https://www.crazygames.com/t/jumping) |
 
 ---
 
 ## 📻 Radinho
+
+<sub>🎧 Espaço de áudio e conversa com canais separados por tema.</sub>
 
 > [!TIP]
 > Entre no canal que preferir assim que abrir a rádio para trocar ideia.
@@ -99,6 +103,8 @@
 
 ## ⌨️ Scripts (CMSP)
 
+<sub>⚡ Atalhos e ferramentas voltadas para as atividades do CMSP.</sub>
+
 | Script | Situação | Link |
 | :--- | :---: | :--- |
 | **Doritus** 🔥 | 🟢 Ativo | [Abrir Link](https://doritus.cloud) |
@@ -110,6 +116,8 @@
 
 ## 🌐 VPN (Unlock)
 
+<sub>🛡️ Recurso extra para ajudar quando a rede limitar algum acesso.</sub>
+
 * **Extensão 1VPN:** [Instalar na Chrome Web Store](https://chromewebstore.google.com/detail/vpn-grátis-free-vpn-1vpn/akcocjjpkmlniicdeemdceeajlmoabh)
 
 > [!NOTE]
@@ -119,10 +127,19 @@
 
 ## ⚒️ Tools & Utilidades
 
+<sub>🧰 Sites extras para baixar apps, explorar jogos e reunir utilidades.</sub>
+
 | Recurso | Descrição | Link |
 | :--- | :--- | :--- |
 | ☠︎ **Apkworld** | Jogos e APKs | [Abrir Apkworld](https://www.apkworld.de/) |
 | 🔨 **Start.me** | Ferramentas e utilidades | [Abrir Start.me](https://start.me/p/L1rEYQ/osint4all) |
+
+---
+
+## ✨ Dicas & Extras
+
+* 🔁 **Alternativa rápida:** se algum site ou script demorar para abrir, teste outro link da mesma seção ou abra em outra aba.
+* 🖥️ **Desempenho:** feche abas pesadas antes de abrir jogos no navegador ou na nuvem para rodar mais liso.
 
 <br>
 
@@ -135,8 +152,10 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
+<br><br><br>
+
 <details>
-  <summary>ㅤ</summary>
+  <summary><sub>·</sub></summary>
   <br>
   <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=450&lines=%F0%9F%94%90+LOGIN+SECRETO+%F0%9F%94%90" alt="Login Secreto Neon" />
