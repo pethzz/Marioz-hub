@@ -14,11 +14,11 @@
 <table>
   <tr>
     <td valign="middle">
-      <em>Bem-vindo! Sinta-se à vontade ;)</em><br>
-      <strong>Contribuidor:</strong> 🥇 Jhony
+      <h4><em>Bem-vindo! Sinta-se à vontade ;)</em></h4>
+      <big><strong>Contribuidor:</strong> 🥇 Jhony</big>
     </td>
     <td valign="middle">
-      <img src="https://raw.githubusercontent.com/pethzz/Marioz-hub/main/1795313024968.jpg" alt="Mario" width="120">
+      <img src="https://raw.githubusercontent.com/pethzz/Marioz-hub/main/1795313024968.jpg" alt="Mario" width="160">
     </td>
   </tr>
 </table>
@@ -33,7 +33,8 @@
   <summary><b>📂 Ver Histórico de Atualizações (v1.49)</b></summary>
   <br>
   <ul>
-    <li>✨ Atualizado para a versão <b>v1.49</b>.</li>
+    <li>📶 <b>Wi-Fi Unblocked</b> adicionado como novidade.</li>
+    <li>🎮 Aba de <b>Jogos</b> criada com CloudMoon e Calculadora Secreta.</li>
     <li>✨ CloudMoon e CrazyGames (Jumping) em destaque.</li>
     <li>✨ Calculadora Secreta, Doritus e Salva Estudante adicionados.</li>
     <li>📻 Novas salas no Radinho e ajustes no hub.</li>
@@ -42,12 +43,22 @@
 
 ---
 
+## 🔥 Novidades
+
+* 📶 **Wi-Fi Unblocked** — conexão de Wi-Fi comum e totalmente desbloqueada
+* 🎮 **Aba de Jogos** — organização dedicada aos jogos de navegador, CloudMoon e Calculadora Secreta
+* 🧮 **Calculadora Secreta** *(Digite `0000`)* — jogos ocultos na aba de Jogos
+* ☁️ **CloudMoon** — cloud gaming na aba de Jogos
+* 🆕 **Versão v1.49** — ajustes no hub, VPN separada e histórico atualizado
+
+---
+
 ## 📶 Wi-Fi Unblocked
 
 <details>
   <summary><b>🔓 Ver acesso</b></summary>
   <br>
-  <p>Essa conexão funciona como uma internet normal sem bloqueios pesados, permitindo acessar praticamente tudo — ao contrário do Wi-Fi padrão da escola, que é cheio de restrições e só libera uma pequena parte dos sites.</p>
+  <p>Esta opção refere-se a uma conexão de Wi-Fi comum, operando de forma totalmente desbloqueada. Diferentemente da rede Wi-Fi padrão da escola, que é sujeita a bloqueios e restrições de acesso, esta alternativa não apresenta limitações impostas pela rede institucional, permitindo navegação irrestrita.</p>
   <br>
   <a href="https://raw.githubusercontent.com/pethzz/Marioz-hub/main/1795482958442.jpg" target="_blank">
     <img src="https://raw.githubusercontent.com/pethzz/Marioz-hub/main/1795482958442.jpg" alt="Wi-Fi Unblocked" width="100%">
@@ -56,13 +67,15 @@
 
 ---
 
-## 🔥 Novidades em Destaque
+## 🎮 Jogos
 
-| Ícone | Recurso / Ferramenta | Link de Acesso |
-| :---: | :--- | :--- |
-| ☁️ | **CloudMoon (Cloud Gaming)** | [Acessar Link](https://web.cloudmoonapp.com/pt/) |
-| 🦘 | **CrazyGames (Jumping)** | [Acessar Link](https://www.crazygames.com/t/jumping) |
-| 🧮 | **Calculadora Secreta** *(Digite `0000`)* | [Acessar Link](https://calcsolver.net/) |
+| Ícone | Jogo / Portal | Tipo | Acesso |
+| :---: | :--- | :--- | :--- |
+| ☁️ | **CloudMoon** | Cloud Gaming | [Acessar Link](https://web.cloudmoonapp.com/pt/) |
+| 🧮 | **Calculadora Secreta** *(Digite `0000`)* | Jogos Ocultos | [Acessar Link](https://calcsolver.net/) |
+| 🌐 | **Navegador (DMC3)** | Browser / Jogos | [Acessar Link](https://tinyurl.com/dmc3-navegador) |
+| 🎮 | **Site de Games (Wix3)** | Portal de Jogos | [Acessar Link](https://browser.wix3.com) |
+| 🦘 | **CrazyGames (Jumping)** | Jogos de Navegador | [Acessar Link](https://www.crazygames.com/t/jumping) |
 
 ---
 
@@ -80,7 +93,7 @@
 ## ⌨️ Scripts (CMSP)
 
 | Script | Status | Acesso |
-| :--- | :---: | :--- |
+| :---: | :---: | :--- |
 | **Doritus** 🔥 | 🟢 Ativo | [Abrir Link](https://doritus.cloud) |
 | **Zunder** | 🟢 Ativo | [Abrir Link](https://platformdestroyer.fun/tarefas) |
 | **OpenFuture** | 🟢 Ativo | [Abrir Link](https://openfuture.lol/) |
