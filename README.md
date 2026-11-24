@@ -6,7 +6,7 @@
 </a>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/VERSION-v1.48-00FFCC?style=for-the-badge&logo=git&logoColor=black" alt="Version">
+  <img src="https://img.shields.io/badge/VERSION-v1.49-00FFCC?style=for-the-badge&logo=git&logoColor=black" alt="Version">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00BFFF?style=for-the-badge&logo=github&logoColor=black" alt="Status">
   <img src="https://komarev.com/ghpvc/?username=pethzz-marioz-hub&label=ACESSOS&color=8A2BE2&style=for-the-badge" alt="Contador de Visitas">
 </p>
@@ -30,31 +30,39 @@
 ## 📋 Update Logs (Clique para abrir)
 
 <details>
-  <summary><b>📂 Ver Histórico de Atualizações (v1.48)</b></summary>
+  <summary><b>📂 Ver Histórico de Atualizações (v1.49)</b></summary>
   <br>
   <ul>
-    <li>✨ Adicionado <b>CloudMoon</b> em Destaque!</li>
-    <li>❌ <b>GTA 5 removido</b> a pedido da comunidade.</li>
-    <li>✨ Adicionado <b>CrazyGames (Jumping)</b> em Destaque!</li>
-    <li>✨ Adicionado <b>Doritus</b> e <b>Salva Estudante</b>.</li>
-    <li>📻 <b>Radinho</b> atualizado com novas salas!</li>
-    <li>🧮 Adicionada <b>Calculadora Secreta</b> com jogos ocultos!</li>
-    <li>🌐 Novos navegadores e sites com diversos jogos adicionados!</li>
+    <li>✨ Atualizado para a versão <b>v1.49</b>.</li>
+    <li>✨ CloudMoon e CrazyGames (Jumping) em destaque.</li>
+    <li>✨ Calculadora Secreta, Doritus e Salva Estudante adicionados.</li>
+    <li>📻 Novas salas no Radinho e ajustes no hub.</li>
   </ul>
+</details>
+
+---
+
+## 📶 Wi-Fi Unblocked
+
+<details>
+  <summary><b>🔓 Ver acesso</b></summary>
+  <br>
+  <p>Essa conexão funciona como uma internet normal sem bloqueios pesados, permitindo acessar praticamente tudo — ao contrário do Wi-Fi padrão da escola, que é cheio de restrições e só libera uma pequena parte dos sites.</p>
+  <br>
+  <a href="https://raw.githubusercontent.com/pethzz/Marioz-hub/main/1795482958442.jpg" target="_blank">
+    <img src="https://raw.githubusercontent.com/pethzz/Marioz-hub/main/1795482958442.jpg" alt="Wi-Fi Unblocked" width="100%">
+  </a>
 </details>
 
 ---
 
 ## 🔥 Novidades em Destaque
 
-> [!IMPORTANT]
-> | Ícone | Recurso / Ferramenta | Link de Acesso |
-> | :---: | :--- | :--- |
-> | ☁️ | **CloudMoon (Cloud Gaming)** | [Acessar Link](https://web.cloudmoonapp.com/pt/) |
-> | 🌐 | **Navegador (DMC3)** | [Acessar Link](https://tinyurl.com/dmc3-navegador) |
-> | 🎮 | **Site de Games (Wix3)** | [Acessar Link](https://browser.wix3.com) |
-> | 🦘 | **CrazyGames (Jumping)** | [Acessar Link](https://www.crazygames.com/t/jumping) |
-> | 🧮 | **Calculadora Secreta** *(Digite `0000`)* | [Acessar Link](https://calcsolver.net/) |
+| Ícone | Recurso / Ferramenta | Link de Acesso |
+| :---: | :--- | :--- |
+| ☁️ | **CloudMoon (Cloud Gaming)** | [Acessar Link](https://web.cloudmoonapp.com/pt/) |
+| 🦘 | **CrazyGames (Jumping)** | [Acessar Link](https://www.crazygames.com/t/jumping) |
+| 🧮 | **Calculadora Secreta** *(Digite `0000`)* | [Acessar Link](https://calcsolver.net/) |
 
 ---
 
@@ -85,7 +93,7 @@
 * **Extensão 1VPN:** [Google Chrome Web Store](https://chromewebstore.google.com/detail/vpn-grátis-free-vpn-1vpn/akcocjjpkmlniicdeemdceeajlmoabh)
 
 > [!NOTE]
-> Caso você esteja no notebook, utilize o navegador **Firefox**, que pode ser encontrado na tela inicial do dispositivo.
+> No notebook, prefira o navegador **Firefox** na tela inicial.
 
 ---
 
@@ -93,8 +101,6 @@
 
 * **Jogos ☠︎:** [Abrir Apkworld](https://www.apkworld.de/)
 * **Tools 🔨:** [Abrir Start.me](https://start.me/p/L1rEYQ/osint4all)
-
----
 
 <div align="center">
   <br>
@@ -107,10 +113,8 @@
   <summary>ㅤ</summary>
   <br>
   <div align="center">
-    <!-- Neon Principal Digitando -->
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=450&lines=%F0%9F%94%90+LOGIN+SECRETO+%F0%9F%94%90" alt="Login Secreto Neon" />
     <br>
-    <!-- Segundo Neon Secundário -->
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=400&lines=Acesso+autorizado+apenas+para+o+e-mail;Senha+removida+por+seguran%C3%A7a" alt="Subtexto Neon" />
   </div>
   <br>
