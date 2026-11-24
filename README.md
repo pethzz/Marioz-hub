@@ -2,9 +2,12 @@
 
 <!-- Banner Animado Digitando -->
 <a href="https://github.com/pethzz/Marioz-hub">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=%F0%9F%8D%84+MARIOZ-HUB+ONLINE!;Games%2C+Scripts+%26+Tools;N%C3%A3o+%C3%A9+errado+%E2%80%94+%C3%A9+estrat%C3%A9gia." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=620&lines=%F0%9F%8D%84+MARIOZ-HUB+ONLINE!;Games%2C+Scripts+%26+Tools;N%C3%A3o+%C3%A9+errado+%E2%80%94+%C3%A9+estrat%C3%A9gia." alt="Typing SVG" />
 </a>
 
+<br>
+
+<!-- Badges de Status -->
 <p align="center">
   <img src="https://img.shields.io/badge/VERSION-v1.59-00FFCC?style=for-the-badge&logo=git&logoColor=black" alt="Version">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00BFFF?style=for-the-badge&logo=github&logoColor=black" alt="Status">
@@ -12,24 +15,34 @@
   <img src="https://komarev.com/ghpvc/?username=pethzz-marioz-hub&label=ACESSOS&color=8A2BE2&style=for-the-badge" alt="Contador de Visitas">
 </p>
 
+<!-- Navegação Rápida -->
+<p align="center">
+  <a href="#novidades">🔥 Novidades</a> •
+  <a href="#jogos">🎮 Jogos</a> •
+  <a href="#radinho">📻 Radinho</a> •
+  <a href="#scripts-cmsp">⌨️ Scripts</a> •
+  <a href="#vpn-unlock">🌐 VPN</a> •
+  <a href="#tools--utilidades">⚒️ Tools</a> •
+  <a href="#dicas--extras">✨ Dicas</a>
+</p>
+
 <br>
 
+<!-- Card de Boas-Vindas -->
 <table>
   <tr>
-    <td valign="middle">
-      <h4><em>Bem-vindo! Sinta-se à vontade ;)</em></h4>
-      <big><strong>Contribuidor:</strong> 🥇 Jhony</big><br>
-      <sub>⚡ Hub atualizado e organizado</sub>
+    <td valign="middle" width="70%">
+      <h3><em>Bem-vindo! Sinta-se à vontade ;)</em></h3>
+      <p><strong>Contribuidor:</strong> 🥇 Jhony<br>
+      <sub>⚡ Hub atualizado, rápido e organizado</sub></p>
     </td>
-    <td valign="middle">
+    <td valign="middle" align="center" width="30%">
       <img src="https://raw.githubusercontent.com/pethzz/Marioz-hub/main/1795313024968.jpg" alt="Mario" width="165">
     </td>
   </tr>
 </table>
 
 </div>
-
-<br>
 
 ---
 
@@ -50,7 +63,8 @@
 
 ## 🔥 Novidades
 
-> 📶 **Wi-Fi Unblocked** — conexão comum totalmente desbloqueada.  
+> [!IMPORTANT]
+> 📶 **Wi-Fi Unblocked** — conexão comum totalmente desbloqueada.<br>
 > 🎮 **Aba de Jogos** — espaço separado só pros jogos e sites de navegador.
 
 ---
@@ -73,7 +87,7 @@
 
 ## 🎮 Jogos
 
-<sub>🕹️ Opções para jogar direto na nuvem, no navegador ou em sites rápidos.</sub>
+> 🕹️ Opções para jogar direto na nuvem, no navegador ou em sites rápidos.
 
 | Jogo / Site | Categoria | Link |
 | :--- | :--- | :--- |
@@ -87,7 +101,7 @@
 
 ## 📻 Radinho
 
-<sub>🎧 Espaço de áudio e conversa com canais separados por tema.</sub>
+> 🎧 Espaço de áudio e conversa com canais separados por tema.
 
 > [!TIP]
 > Entre no canal que preferir assim que abrir a rádio para trocar ideia.
@@ -103,7 +117,7 @@
 
 ## ⌨️ Scripts (CMSP)
 
-<sub>⚡ Atalhos e ferramentas voltadas para as atividades do CMSP.</sub>
+> ⚡ Atalhos e ferramentas voltadas para as atividades do CMSP.
 
 | Script | Situação | Link |
 | :--- | :---: | :--- |
@@ -116,7 +130,7 @@
 
 ## 🌐 VPN (Unlock)
 
-<sub>🛡️ Recurso extra para ajudar quando a rede limitar algum acesso.</sub>
+> 🛡️ Recurso extra para ajudar quando a rede limitar algum acesso.
 
 * **Extensão 1VPN:** [Instalar na Chrome Web Store](https://chromewebstore.google.com/detail/vpn-grátis-free-vpn-1vpn/akcocjjpkmlniicdeemdceeajlmoabh)
 
@@ -127,7 +141,7 @@
 
 ## ⚒️ Tools & Utilidades
 
-<sub>🧰 Sites extras para baixar apps, explorar jogos e reunir utilidades.</sub>
+> 🧰 Sites extras para baixar apps, explorar jogos e reunir utilidades.
 
 | Recurso | Descrição | Link |
 | :--- | :--- | :--- |
@@ -141,14 +155,12 @@
 * 🔁 **Alternativa rápida:** se algum site ou script demorar para abrir, teste outro link da mesma seção ou abra em outra aba.
 * 🖥️ **Desempenho:** feche abas pesadas antes de abrir jogos no navegador ou na nuvem para rodar mais liso.
 
-<br>
-
 ---
 
 <div align="center">
   <br>
-  <b>⚠️ Não é errado — é estratégia.</b>
-  <br><br>
+  <h3>⚠️ Não é errado — é estratégia.</h3>
+  <br>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
