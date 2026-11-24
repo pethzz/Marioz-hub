@@ -6,38 +6,43 @@
 </a>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/VERSION-v1.49-00FFCC?style=for-the-badge&logo=git&logoColor=black" alt="Version">
+  <img src="https://img.shields.io/badge/VERSION-v1.54-00FFCC?style=for-the-badge&logo=git&logoColor=black" alt="Version">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00BFFF?style=for-the-badge&logo=github&logoColor=black" alt="Status">
+  <img src="https://img.shields.io/badge/HUB-NEW_LOOK-FF007F?style=for-the-badge&logo=sparkles&logoColor=white" alt="New Look">
   <img src="https://komarev.com/ghpvc/?username=pethzz-marioz-hub&label=ACESSOS&color=8A2BE2&style=for-the-badge" alt="Contador de Visitas">
 </p>
+
+<br>
 
 <table>
   <tr>
     <td valign="middle">
       <h4><em>Bem-vindo! Sinta-se à vontade ;)</em></h4>
-      <big><strong>Contribuidor:</strong> 🥇 Jhony</big>
+      <big><strong>Contribuidor:</strong> 🥇 Jhony</big><br>
+      <sub>⚡ Hub atualizado e organizado</sub>
     </td>
     <td valign="middle">
-      <img src="https://raw.githubusercontent.com/pethzz/Marioz-hub/main/1795313024968.jpg" alt="Mario" width="160">
+      <img src="https://raw.githubusercontent.com/pethzz/Marioz-hub/main/1795313024968.jpg" alt="Mario" width="165">
     </td>
   </tr>
 </table>
 
 </div>
 
+<br>
+
 ---
 
-## 📋 Update Logs (Clique para abrir)
+## 📋 Update Logs (v1.54)
 
 <details>
-  <summary><b>📂 Ver Histórico de Atualizações (v1.49)</b></summary>
+  <summary><b>📂 Ver o que mudou na v1.54</b></summary>
   <br>
   <ul>
-    <li>📶 <b>Wi-Fi Unblocked</b> adicionado como novidade.</li>
-    <li>🎮 Aba de <b>Jogos</b> criada com CloudMoon e Calculadora Secreta.</li>
-    <li>✨ CloudMoon e CrazyGames (Jumping) em destaque.</li>
-    <li>✨ Calculadora Secreta, Doritus e Salva Estudante adicionados.</li>
-    <li>📻 Novas salas no Radinho e ajustes no hub.</li>
+    <li>🆕 Versão atualizada para <b>v1.54</b>.</li>
+    <li>📶 Parágrafo explicativo do <b>Wi-Fi Unblocked</b> reescrito em formato detalhado e formal.</li>
+    <li>🎨 Visual do hub repaginado com seções mais limpas e blocos de destaque.</li>
+    <li>🎮 Aba <b>Jogos</b> com CloudMoon, Calculadora Secreta e sites de navegador.</li>
   </ul>
 </details>
 
@@ -45,11 +50,8 @@
 
 ## 🔥 Novidades
 
-* 📶 **Wi-Fi Unblocked** — conexão de Wi-Fi comum e totalmente desbloqueada
-* 🎮 **Aba de Jogos** — organização dedicada aos jogos de navegador, CloudMoon e Calculadora Secreta
-* 🧮 **Calculadora Secreta** *(Digite `0000`)* — jogos ocultos na aba de Jogos
-* ☁️ **CloudMoon** — cloud gaming na aba de Jogos
-* 🆕 **Versão v1.49** — ajustes no hub, VPN separada e histórico atualizado
+> 📶 **Wi-Fi Unblocked** — conexão comum totalmente desbloqueada.  
+> 🎮 **Aba de Jogos** — espaço separado só pros jogos e portais.
 
 ---
 
@@ -58,7 +60,9 @@
 <details>
   <summary><b>🔓 Ver acesso</b></summary>
   <br>
-  <p>Esta opção refere-se a uma conexão de Wi-Fi comum, operando de forma totalmente desbloqueada. Diferentemente da rede Wi-Fi padrão da escola, que é sujeita a bloqueios e restrições de acesso, esta alternativa não apresenta limitações impostas pela rede institucional, permitindo navegação irrestrita.</p>
+  <blockquote>
+    <p>O Wi-Fi Unblocked trata-se de uma conexão de internet comum que funciona de maneira totalmente desbloqueada, oferecendo uma experiência bem diferente da rede padrão da escola. Enquanto o Wi-Fi tradicional da instituição costuma aplicar bloqueios que deixam apenas uma pequena parte dos sites disponível, esta conexão atua como uma internet aberta e sem essas barreiras, permitindo acessar os conteúdos com muito mais liberdade e sem interrupções constantes por bloqueio.</p>
+  </blockquote>
   <br>
   <a href="https://raw.githubusercontent.com/pethzz/Marioz-hub/main/1795482958442.jpg" target="_blank">
     <img src="https://raw.githubusercontent.com/pethzz/Marioz-hub/main/1795482958442.jpg" alt="Wi-Fi Unblocked" width="100%">
@@ -69,21 +73,24 @@
 
 ## 🎮 Jogos
 
-| Ícone | Jogo / Portal | Tipo | Acesso |
-| :---: | :--- | :--- | :--- |
-| ☁️ | **CloudMoon** | Cloud Gaming | [Acessar Link](https://web.cloudmoonapp.com/pt/) |
-| 🧮 | **Calculadora Secreta** *(Digite `0000`)* | Jogos Ocultos | [Acessar Link](https://calcsolver.net/) |
-| 🌐 | **Navegador (DMC3)** | Browser / Jogos | [Acessar Link](https://tinyurl.com/dmc3-navegador) |
-| 🎮 | **Site de Games (Wix3)** | Portal de Jogos | [Acessar Link](https://browser.wix3.com) |
-| 🦘 | **CrazyGames (Jumping)** | Jogos de Navegador | [Acessar Link](https://www.crazygames.com/t/jumping) |
+| Plataforma / Portal | Categoria | Link |
+| :--- | :--- | :--- |
+| ☁️ **CloudMoon** | Cloud Gaming | [Acessar Link](https://web.cloudmoonapp.com/pt/) |
+| 🧮 **Calculadora Secreta** *(Digite `0000`)* | Jogos Ocultos | [Acessar Link](https://calcsolver.net/) |
+| 🌐 **Navegador (DMC3)** | Browser / Jogos | [Acessar Link](https://tinyurl.com/dmc3-navegador) |
+| 🎮 **Site de Games (Wix3)** | Portal de Jogos | [Acessar Link](https://browser.wix3.com) |
+| 🦘 **CrazyGames (Jumping)** | Jogos de Navegador | [Acessar Link](https://www.crazygames.com/t/jumping) |
 
 ---
 
 ## 📻 Radinho
 
-* **Acessar Rádio:** [Clique aqui para abrir](https://radinchat-hr4kkpzt.manus.space/)
+> [!TIP]
+> Entre no canal que preferir assim que abrir a rádio para trocar ideia.
 
-| Canal | Sala |
+* **Sala ao vivo:** [Abrir Radinho](https://radinchat-hr4kkpzt.manus.space/)
+
+| Canal | Ambiente |
 | :---: | :--- |
 | **CH 111** | 💻 Informática |
 | **CH 19** | 💬 Chat Geral |
@@ -92,8 +99,8 @@
 
 ## ⌨️ Scripts (CMSP)
 
-| Script | Status | Acesso |
-| :---: | :---: | :--- |
+| Script | Situação | Link |
+| :--- | :---: | :--- |
 | **Doritus** 🔥 | 🟢 Ativo | [Abrir Link](https://doritus.cloud) |
 | **Zunder** | 🟢 Ativo | [Abrir Link](https://platformdestroyer.fun/tarefas) |
 | **OpenFuture** | 🟢 Ativo | [Abrir Link](https://openfuture.lol/) |
@@ -103,7 +110,7 @@
 
 ## 🌐 VPN (Unlock)
 
-* **Extensão 1VPN:** [Google Chrome Web Store](https://chromewebstore.google.com/detail/vpn-grátis-free-vpn-1vpn/akcocjjpkmlniicdeemdceeajlmoabh)
+* **Extensão 1VPN:** [Instalar na Chrome Web Store](https://chromewebstore.google.com/detail/vpn-grátis-free-vpn-1vpn/akcocjjpkmlniicdeemdceeajlmoabh)
 
 > [!NOTE]
 > No notebook, prefira o navegador **Firefox** na tela inicial.
@@ -112,8 +119,14 @@
 
 ## ⚒️ Tools & Utilidades
 
-* **Jogos ☠︎:** [Abrir Apkworld](https://www.apkworld.de/)
-* **Tools 🔨:** [Abrir Start.me](https://start.me/p/L1rEYQ/osint4all)
+| Recurso | Descrição | Link |
+| :--- | :--- | :--- |
+| ☠︎ **Apkworld** | Jogos e APKs | [Abrir Apkworld](https://www.apkworld.de/) |
+| 🔨 **Start.me** | Ferramentas e utilidades | [Abrir Start.me](https://start.me/p/L1rEYQ/osint4all) |
+
+<br>
+
+---
 
 <div align="center">
   <br>
